@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dubakula Ramya
 
-### Software Engineer | Full-Stack Developer | AI Enthusiast
+### Aspiring Data Scientist | Software Engineer | Full-Stack Developer
 
 🎓 Integrated MCA (IMCA) Student (2022–2026) at Parul University
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Software Engineering, System Design, and Cloud Technologies**
+* 🌱 Currently learning **Advanced Data Science, Machine Learning, Data Analytics, System Design, and Cloud Technologies**
 * 💼 Interested in **Software Engineering, Full-Stack Development, Backend Development, and AI**
 * 💡 Strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, REST APIs, and Software Development**
 * 📫 Reach me at **[dubakularamya6@gmail.com](mailto:dubakularamya6@gmail.com)**
@@ -22,23 +22,13 @@
 
 ### Languages
 
-* Java
 * Python
-* JavaScript
-* SQL
-
-### Frontend
-
-* React.js
-* HTML5
-* CSS3
-* Tailwind CSS
-
-### Backend
-
-* Flask
-* FastAPI
-* REST APIs
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Basic Machine Learning
+* Data Visualization
 
 ### Databases
 
