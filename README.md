@@ -1,10 +1,10 @@
 # Hi 👋, I'm Dubakula Ramya
 
-### Aspiring Data Scientist | Software Engineer | Full-Stack Developer
+### Data Analyst | Python • SQL • Power BI | Data Science & AI Enthusiast
 
 🎓 Integrated MCA (IMCA) Student (2022–2026) at Parul University
 
-💻 Passionate about building scalable web applications, backend systems, and AI-powered solutions.
+💻 Passionate about building scalable Python, SQL, data visualization, and analytical projects.
 
 ---
 
