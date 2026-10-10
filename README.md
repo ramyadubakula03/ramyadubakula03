@@ -46,23 +46,46 @@
 ---
 
 ## 🚀 Featured Projects
+### 📊 Sales Data Analysis & Power BI Dashboard
+Cleaned and transformed sales transaction data using Power Query.
+
+Analyzed sales performance, revenue trends, and product-level metrics.
+
+Built interactive Power BI dashboards with KPIs and visualizations to support data-driven decisions.
+
+Tools: Power BI, Power Query, DAX, Excel
+
+### 🧹 Data Cleaning & Exploratory Data Analysis
+
+Identified and handled missing values, duplicate records, inconsistent data, and outliers.
+
+Performed exploratory data analysis using Pandas and NumPy.
+
+Created univariate, bivariate, and multivariate visualizations to identify patterns and relationships.
+
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ### 🤖 NL2SQL Engine
 
-AI-powered Natural Language to SQL Query Engine built using Python, Claude API, SQL, and Prompt Engineering.
+Built an AI-powered application that converts natural-language questions into SQL queries.
+
+Worked with Python, SQL, and the Claude API.
+
+Tools: Python, SQL, Claude API, Prompt Engineering
 
 ### 🛒 Full-Stack E-commerce Marketplace
 
 Developed a scalable marketplace using React, TypeScript, Tailwind CSS, FastAPI, and MongoDB.
 
+Tools: Python, CSS , Json based Data base, React 
+
 ### 🛡️ Cloud-Based Fraud Detection
 
-Machine Learning-based fraud detection system for real-time transaction monitoring and anomaly detection.
+Developed a machine learning project to identify potentially fraudulent transactions.
 
+Performed data preprocessing, feature analysis, and model evaluation.
 
-### 🌤️ Weather Forecast App
-
-Weather application using OpenWeather API and JavaScript.
+Tools: Python, Pandas, Scikit-learn
 
 ---
 
