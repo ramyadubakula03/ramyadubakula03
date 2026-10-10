@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 * 🌱 Currently learning **Advanced Data Science, Machine Learning, Data Analytics, System Design, and Cloud Technologies**
-* 💼 Interested in **Software Engineering, Full-Stack Development, Backend Development, and AI**
+* 💼 Interested in **Data Analyst, Software Engineering, Full-Stack Development, Backend Development, and AI**
 * 💡 Strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, REST APIs, and Software Development**
 * 📫 Reach me at **[dubakularamya6@gmail.com](mailto:dubakularamya6@gmail.com)**
 * 📍 Hyderabad, Telangana, India
